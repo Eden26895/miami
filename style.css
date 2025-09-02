@@ -11,6 +11,14 @@ body {
   text-align: center;
   color: #333;
 }
+<style>
+ul{
+  list-style-position: inside; 
+}
+</style> 
+li {
+  text-align: right;
+}
 
 h1 {
   font-size: 3rem;
